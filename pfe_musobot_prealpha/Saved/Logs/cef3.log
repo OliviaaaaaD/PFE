@@ -1,0 +1,20 @@
+[1112/115500.828:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1112/115544.271:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1112/115544.278:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1112/115544.311:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1112/115544.318:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1112/120211.497:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1112/120211.497:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1112/120211.497:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1112/120211.497:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1112/120211.500:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[1112/120211.500:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[1112/120211.500:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[1112/120211.500:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[1112/120211.500:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1112/120211.500:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1112/120211.500:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1112/120211.500:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1112/120211.500:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1112/153329.366:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1112/153329.366:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.

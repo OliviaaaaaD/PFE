@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Core/Outliner_System/Blueprints/BP_Symbol.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Core/Outliner_System/Datamodel/Enumerations/Enum_Outline_Behaviour.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Core/Outliner_System/Datamodel/Enumerations/Enum_Outline_Type.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Core/Outliner_System/Blueprints/AC_Outliner_Abstract.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Material/PP_Outliner_Master.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Material/PP_MI_Outliner.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Material/PP_MI_Outliner_SceneDepth.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Blueprints/BP_Outliner_World_Actor.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Blueprints/AC_Outliner_Basic.uasset"
+			]
+		}
+	]
+}
