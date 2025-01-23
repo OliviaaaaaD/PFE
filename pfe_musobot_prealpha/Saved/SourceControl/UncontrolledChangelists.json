@@ -14,7 +14,18 @@
 				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Material/PP_MI_Outliner.uasset",
 				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Material/PP_MI_Outliner_SceneDepth.uasset",
 				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Blueprints/BP_Outliner_World_Actor.uasset",
-				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Blueprints/AC_Outliner_Basic.uasset"
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Hyper/Outliner_System/Blueprints/AC_Outliner_Basic.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Materials/M_Outline.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/M_Outline.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Materials/Outline/M_Outline.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Materials/Outline/M_Outline_1.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/Materials/Outline/M_Outline_2.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/ThirdPerson/Input/Actions/IA_SwitchMode.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/LevelPrototyping/Materials/M_Murdoublesided.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/LevelPrototyping/Materials/M_DoubleSidedWall.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/regou/Documents/PFE MUSOBOT/PFE/pfe_musobot_prealpha/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
 			]
 		}
 	]
